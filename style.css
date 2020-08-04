@@ -7,3 +7,28 @@
   background-position: center;
   background-repeat: no-repeat;
 }
+
+.container1 {
+  padding: 25px;
+  color: rgb(37, 18, 18);
+  text-align: center;
+}
+
+.opener {
+  padding: 5%;
+}
+
+.middletext {
+  padding: 5%;
+}
+
+.abovefooter {
+  background-color: teal;
+  padding: auto;
+  width: 100%;
+}
+
+.socialmedia {
+  padding: 20%;
+  text-align: center;
+}
