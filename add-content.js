@@ -25,7 +25,7 @@ function calc(a, b, d) {
 
     case "*":
       var c = a * b;
-      bb.innerHTML = "The multiplication of the two numbers is : " + c;
+      bb.innerHTML = "The product of the two numbers is : " + c;
       return c;
       break;
   }
