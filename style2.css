@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(141, 21, 95);
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+.panal_center {
+  background-color: brown;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  width: 500px;
+  height: 500px;
+}
+
+#mango {
+  display: inline-block;
+  width: 50%;
+}
